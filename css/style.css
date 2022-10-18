@@ -1,0 +1,164 @@
+/* *{
+    
+} */
+.homeSection {
+    background-image: url(../images/img1.jpeg);
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+    /* height: 100vh; */
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.overLay {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.homeSection header {
+    color: whitesmoke;
+    /* border: 2px solid red; */
+    padding: 190px 60px;
+}
+
+.homeSection header h1 {
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.homeSection header h2 {
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.homeSection header button {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: yellow;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 800;
+    cursor: pointer;
+    margin-left: 500px;
+}
+
+.services {
+    background-color: transparent;
+    /* border: 2px solid red; */
+}
+
+.services header {
+    /* border: 2px solid blue; */
+    padding-top: 100px;
+}
+
+.services header h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.services header p {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.parent div h1 {
+    font-family: monospace;
+    font-weight: 900;
+}
+
+.parent div p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    line-height: 40px;
+    /* font-weight: 500; */
+
+}
+
+.parent div {
+    display: inline-block;
+    width: 29%;
+    padding: 50px 27px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 30px 0px;
+    line-height: 20px;
+}
+.parent div p{
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.parent span {
+    background-color: black;
+    border-radius: 50px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    line-height: 120px;
+    /* color: blue; */
+    color: white;
+    text-align: center;
+
+}
+
+.page3 {
+    /* height: 100vh; */
+    background-color: rgba(0, 0, 0, 0.1);
+    background-size: 100%;
+}
+
+.page3 img {
+    width: 30%;
+    height: 300px;
+    /* border: 2px solid red; */
+    padding: 40px 20px;
+    display: inline-block;
+
+}
+
+.page3 header h2 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 80px;
+}
+
+.page3 header p {
+    text-align: center;
+    /* font-size: 10px; */
+    font-style: italic;
+}
+
+.titleDisc div {
+    display: inline-block;
+    margin: 0px 150px;
+    text-align: center;
+}
+
+.titleDisc div h1 {
+    font-size: 35px;
+    text-transform: capitalize;
+    font-family: 'Nunito', sans-serif;
+}
+
+.titleDisc div p {
+    font-style: italic;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    margin: 50px 0px ;
+}
